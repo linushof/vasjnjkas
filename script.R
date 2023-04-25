@@ -5,4 +5,4 @@
 
 # a new line
 x <- 1:9
-x
+y <- exp(x)
